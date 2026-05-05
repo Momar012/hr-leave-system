@@ -347,7 +347,7 @@ export default function ChatInterface({ userFullName, userId, initialThreads }: 
               <Image src="/VEONiee.png" alt="VEONiee mascot" width={160} height={160} className="w-full h-full object-cover" />
             </div>
             <h1 className="text-2xl font-semibold text-[#ececec] mb-8">
-            Hi, I'm VEONie by VEON 👋
+            Hi, I&apos;m VEONie by VEON 👋
             </h1>
             <p className="text-lg font-normal text-[#ececec]/80 mb-8">
   How can I support you today?
